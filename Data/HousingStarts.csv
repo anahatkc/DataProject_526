@@ -1,18 +1,4 @@
-﻿"Canada Mortgage and Housing Corporation, housing starts, under construction and completions, all areas, quarterly c 1 2 3"
-"Frequency: Quarterly"
-"Table: 34-10-0135-01 (formerly CANSIM 027-0008)"
-"Release date: 2023-10-18"
-"Geography: Canada, Geographical region of Canada, Province or territory"
-""
-""
-
-"Geography","Canada"
-"Housing estimates","Housing starts"
-"Type of unit","Total units"
-"Seasonal adjustment","Unadjusted"
-"Reference period"
-,"Units"
-"Q1 2016","38,175"
+﻿"Q1 2016","38,175"
 "Q2 2016","53,286"
 "Q3 2016","54,899"
 "Q4 2016","51,555"
@@ -43,20 +29,3 @@
 "Q1 2023","46,851"
 "Q2 2023","64,042"
 "Q3 2023","66,678"
-
-
-"Table Corrections:"
-Date,Note
-"","Time series groups from CMHC's Starts and Completions Survey and Market Absorption Survey were temporarily removed due to a data error which impacted September 2023 and Q3 2023 series values. Impacted series have been corrected and reissued."
-
-
-
-Footnotes:
-1,"Geographical areas modified every 5 years to reflect most recent census definitions, therefore, data are not strictly comparable historically."
-2,"These data are obtained from Canada Mortgage and Housing Corporation (CMHC) and are provided subject to <a href="https://www.cmhc-schl.gc.ca/en/data-and-research/cmhc-licence-agreement-use-of-data" rel="external noopener noreferrer" target="_blank"> CMHC Licence Agreement for the Use of Data (opens new window)</a>."
-3,"For additional information and definitions, refer to <a href=" https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/ScsMasMethodology" rel="external noopener noreferrer" target="_blank"> CMHC Starts and Completions Survey Methodology and Definitions (opens new window)</a>."
-
-
-
-"How to cite: Statistics Canada. Table 34-10-0135-01  Canada Mortgage and Housing Corporation, housing starts, under construction and completions, all areas, quarterly"
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410013501
