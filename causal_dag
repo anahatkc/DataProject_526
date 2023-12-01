@@ -1,0 +1,19 @@
+digraph {
+	MonetaryPolicyShock -> InterestRate
+	MonetaryPolicyShock -> CreditSupply
+	MonetaryPolicyShock -> Wealth
+	MonetaryPolicyShock -> MacroeconomicTools
+	CreditSupply -> BankLending
+	BankLending -> Consumption
+	BankLending -> HousingSupply
+	Wealth -> Consumption
+	Wealth -> HousePrices
+	InterestRate -> Consumption
+	InterestRate -> AdjustableInterestRate
+	AdjustableInterestRate -> Consumption
+	HousingSupply -> HousePrices
+	HousePrices -> Wealth
+	ConstructionGap -> HousePrices
+	PopulationGrowth -> ConstructionGap
+	MacroeconomicTools -> AdjustableInterestRate
+}
