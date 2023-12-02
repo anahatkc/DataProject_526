@@ -1,0 +1,17 @@
+digraph {
+	Immigration [label=Immigration]
+	PopulationGrowth [label="Population Growth"]
+	DemographicDemand [label="Demographic Demand"]
+	EconomicIndicators [label="Economic Indicators"]
+	HousingDemand [label="Housing Demand"]
+	SupplyFactors [label="Supply Factors"]
+	GovernmentPolicies [label="Government Policies"]
+	HousingMarket [label="Housing Market"]
+	Immigration -> PopulationGrowth
+	PopulationGrowth -> DemographicDemand
+	DemographicDemand -> HousingDemand
+	EconomicIndicators -> HousingDemand
+	HousingDemand -> HousingMarket
+	SupplyFactors -> HousingMarket
+	GovernmentPolicies -> HousingMarket
+}
